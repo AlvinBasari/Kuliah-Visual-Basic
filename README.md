@@ -2,7 +2,7 @@
 Hasil mata kuliah pemograman visual
 
 /////////////////////////////// INFO ////////////////////////////////////////////////////////////////////////////////////////////
-THIS IS THE PROGRAM I USE IN MAKING THIS PROGRAM
+SOFTWARE REQUIRMENTS
 -VISUAL STUDIO 2010 
 -XAMPP VER 1.7.3
 -MYSQL VER 3.2.4
